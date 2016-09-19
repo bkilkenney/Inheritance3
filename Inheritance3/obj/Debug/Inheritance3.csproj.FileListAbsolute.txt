@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\bin\Debug\Inheritance3.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\obj\Debug\Inheritance3.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\obj\Debug\Inheritance3.pdb

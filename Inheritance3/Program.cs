@@ -10,6 +10,12 @@ namespace Inheritance3
     {
         static void Main(string[] args)
         {
+            Football browns = new Football();
+            browns.Display();
+
+            Baseball indians = new Baseball();
+            indians.Display();
+
         }
     }
 }
